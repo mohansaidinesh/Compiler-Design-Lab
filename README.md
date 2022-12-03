@@ -1,4 +1,5 @@
-# Compiler-Design-Lab![th](https://user-images.githubusercontent.com/85325733/205421712-fd92f356-4b27-447c-a10d-14bd70981fdf.jpg)
+![th](https://user-images.githubusercontent.com/85325733/205421712-fd92f356-4b27-447c-a10d-14bd70981fdf.jpg)
+# Compiler Design Lab
 Ex.1 - Lexical Analyzer
 
 Ex.2 - Regular Expression to NFA
